@@ -23,6 +23,11 @@ function one () {
 }
 
 // CREATE FUNCTION two HERE
+function start () {
+  two()
+  
+}
+
 function two () {
 
   var two = document.getElementById('two')
