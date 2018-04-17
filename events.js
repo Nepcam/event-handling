@@ -41,7 +41,7 @@ function three () {
 
   three.addEventListener('mouseenter', makeYellow)
 
-  two.addEventListener('mouseleave' , makewhite)
+  three.addEventListener('mouseleave' , makewhite)
 }
 
 // CREATE FUNCTION four HERE
