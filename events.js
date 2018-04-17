@@ -49,9 +49,9 @@ function four () {
 
   var four = document.getElementById('four')
 
-  four.addEventListener('click', makeRed)
+  four.addEventListener('onclick', makeRed)
 
-  four.addEventListener('click', makeWhite)
+  four.addEventListener('onclick', makeWhite)
 }
 
 // Changes the background color of event's target
