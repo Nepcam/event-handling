@@ -72,5 +72,5 @@ function makeYellow (evt) {
 }
 
 function makeRed (evt) {
-  evt.target.style.backgroundColor = 'yellow'
+  evt.target.style.backgroundColor = 'red'
 }
